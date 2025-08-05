@@ -1,8 +1,7 @@
 <h1 align="center">Oi! 👋 Eu sou Júlia Dias</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Estudante+de+Ci%C3%AAncia+de+Dados+na+UFMG;Apaixonada+por+dados%2C+visualiza%C3%A7%C3%B5es+e+modelos;Buscando+oportunidades+de+est%C3%A1gio+e+colabora%C3%A7%C3%B5es;Vamos+transformar+dados+em+impacto+real!" alt="Typing SVG" />
-</p>
+
 
 ---
 
