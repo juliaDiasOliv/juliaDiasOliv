@@ -8,8 +8,8 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudante de Ciência de Dados na UFMG  
-- 📈 Gosto de análise, visualização e machine learning  
-- 💻 Trabalho com Python, Jupyter, Pandas, Scikit-learn  
+
+  
 
 
 ---
