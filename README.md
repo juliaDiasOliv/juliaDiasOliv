@@ -5,11 +5,10 @@
 
 ---
 
-### 🧠 Sobre mim
+### ☕ Sobre mim
 
 - 🎓 Estudante de Ciência de Dados na UFMG  
-
-  
+- 🌱 Atualmente estudando 🐍 Python e 🅰️ Angular 
 ---
 ### 🧰 Tecnologias e Ferramentas que uso:
 
