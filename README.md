@@ -1,46 +1,27 @@
-<h1 align="center">Oi! 👋 Eu sou Júlia Dias</h1>
+# Hi there! 👋 I'm Júlia Dias
 
-<p align="center">
-
-
----
-
-### ☕ Sobre mim
-
-- 🎓 Estudante de Ciência de Dados na UFMG  
-- 🌱 Atualmente estudando Python, Flutter e LangChain
----
-### 🧰 Tecnologias e Ferramentas que uso:
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/>
-
-</div>
-
+I am a Data Science undergraduate student at UFMG  actively building and developing practical software applications and AI implementations. Through hands-on academic and personal projects, I focus on mastering modern development paradigms, clean architecture, and cost-effective LLM orchestration.
 
 ---
 
-### 📫 Contato
+### 🧠 About Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-dias-souza/)
+- 🎓 **Education:** Pursuing a Bachelor of Science in Data Science at UFMG.
+- 🚀 **Focus Areas:** Advanced LLM Orchestration (LangChain/LCEL) and clean mobile architectures.
+- 🛠️ **Current Engineering Projects:** Designing cost-effective, self-hosted AI automation loops via Ollama and maintaining production-grade cross-platform mobile environments.
 
+---
 
-<!--
-**juliaDiasOliv/juliaDiasOliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧰 Tech Stack & Ecosystem
 
-Here are some ideas to get you started:
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **AI & Data Science** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) Vector DBs (ChromaDB), RAG Architectures |
+| **Software & Frontend** | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) Riverpod, Freezed State Management, Clean Architecture |
+| **Systems & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Firebase (Firestore), Cursor/VS Code |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📬 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/júlia-dias-souza)
