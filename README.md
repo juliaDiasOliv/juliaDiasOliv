@@ -7,8 +7,10 @@ I am a Data Science undergraduate student at UFMG  actively building and develop
 ### 🧠 About Me
 
 - 🎓 **Education:** Pursuing a Bachelor of Science in Data Science at UFMG.
-- 🚀 **Focus Areas:** Advanced LLM Orchestration (LangChain/LCEL) and clean mobile architectures.
-- 🛠️ **Current Engineering Projects:** Designing cost-effective, self-hosted AI automation loops via Ollama and maintaining production-grade cross-platform mobile environments.
+- 🚀 **Focus Areas:** LLM Orchestration (LangChain/LCEL) and clean mobile architectures.
+- 🛠️ **Active Projects:** - Developing a structured text analysis pipeline using **LangChain Core (LCEL)** and local models via **Ollama**.
+  - Building a full-stack educational mobile application utilizing **Flutter** and **Firebase**.
+  - Implementing state management paradigms with **Riverpod** and structured models via **Freezed**.
 
 ---
 
